@@ -135,7 +135,7 @@ if __name__ == "__main__":
     stops = stopwords.words('english')
     
     # file path of the tsv file
-    file_path = 'C:\\Users\\GLaDOS\\Documents\\SJ\\SDP\\Tech\\'
+    file_path = 'C:\\Users\\GLaDOS\\Documents\\SJ\\SDP\\Tech\\sdp-vocab-selector\\'
     read_file_name = 'final_result.tsv'
     write_file_name = 'word_counted.tsv'
 
