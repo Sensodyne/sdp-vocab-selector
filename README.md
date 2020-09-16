@@ -5,3 +5,4 @@ To select vocabularies that represents PPI status of the deal represented in the
 - vocabcounter.py: a program that counts the number of appearance of each vocabulary from the texts listed in final_results.tsv
 - word_counted.tsv: a result created after the execution of vocabcounter.py
 - 0829_find_representative_words.ipynb: 4 different attempts to figure out the representative vocabularies of each deal status based on the result written in word_counted.tsv
+- utils.py: utils including the function to match representative words in the QA text
